@@ -1,10 +1,10 @@
 % Formatafacil: produza artigos com as normas da ABNT
-% Autor
-% 201X
+% Geyzon
+% 2015
 
-# Introdução
+# Introdução virtual
 
-Historicamente os estudantes costumam ter dificuldades para elaborar
+> Historicamente os estudantes costumam ter dificuldades para elaborar
 e formatar artigos utilizando as normas da ABNT (ou dos eventos que 
 desejam submeter seus artigos).
 
