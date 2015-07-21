@@ -1,5 +1,5 @@
 # artigo-abnt
-
+Ead virtaul
 Este repositório contém um modelo para produção de artigos com as normas da ABNT.
 
 ## Configuração
